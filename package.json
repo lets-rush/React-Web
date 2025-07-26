@@ -1,0 +1,23 @@
+{
+  "name": "ignite",
+  "version": "1.0.0",
+  "description": "Practice Setup",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lets-rush/React-Web.git"
+  },
+  "keywords": [
+    "no",
+    "new",
+    "value"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lets-rush/React-Web/issues"
+  },
+  "homepage": "https://github.com/lets-rush/React-Web#readme"
+}
