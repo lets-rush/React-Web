@@ -5,3 +5,10 @@
     margin-top: 20px;
     background-color: lightblue;
 }
+#parent {
+    color: green;
+    text-align: left;
+    font-size: 2rem;
+    margin-top: 20px;
+    background-color: lightblue;
+}

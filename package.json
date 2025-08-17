@@ -4,7 +4,7 @@
   "description": "Practice Setup",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel index.html --open",
+    "start": "parcel index.html",
     "build": "parcel build index.html"
   },
   "repository": {
@@ -21,5 +21,14 @@
   "bugs": {
     "url": "https://github.com/lets-rush/React-Web/issues"
   },
-  "homepage": "https://github.com/lets-rush/React-Web#readme"
+  "homepage": "https://github.com/lets-rush/React-Web#readme",
+  "dependencies": {
+    "parcel": "^2.15.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.0",
+    "@babel/preset-react": "^7.27.1"
+  }
 }
